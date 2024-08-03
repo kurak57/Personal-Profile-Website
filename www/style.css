@@ -49,3 +49,22 @@ ul{
 .box li a:hover{
     color: #ccc;
 }
+
+.box button {
+    background: white;
+    padding: 15px 40px;
+    border: none;
+    outline: none;
+    color: black;
+    cursor: pointer;
+    border-radius: 10px;
+    font-size: 20px;
+    text-decoration: none;
+}
+.box a {
+    text-decoration: none;
+    transition: all ease-in-out 300ms;
+}
+.box button a:hover{
+     color: #ccc;
+}
